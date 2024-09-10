@@ -104,7 +104,9 @@ for a while self living.
 
 self has died. state of information self=None
 for a while self is dead.
-state of information self=None for a while self is dead. self will revive. self revived.
+state of information self=None
+for a while self is dead.
+self will revive.
 
 self revived. state of information self=1
 end
